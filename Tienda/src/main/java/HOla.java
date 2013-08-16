@@ -8,5 +8,5 @@
  * @author Ariel-Vaio
  */
 public class HOla {
-    
+    int h;
 }
